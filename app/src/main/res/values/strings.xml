@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WLTwitter_Part3</string>
+    
+    <!-- MENU -->
+    <string name="action_logout">Logout</string>
+
+    <!-- LOGIN -->
+    <string name="loginHint">Your Twitter login</string>
+    <string name="passwordHint">Your Twitter password</string>
+    <string name="login">Sign in</string>
+    <string name="error_no_login">Empty login !</string>
+    <string name="error_no_password">Empty password !</string>
+    
+    <!-- TWEET LIST ITEM -->
+    <string name="tweet_list_item_button_text">RT</string>
+    
+    <!-- TWEET -->
+    <string name="tweet_reply">reply</string>
+    <string name="tweet_retweet">retweet</string>
+    <string name="tweet_star">star</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="action_settings">Title!</string>
+</resources>
